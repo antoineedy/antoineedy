@@ -19,5 +19,7 @@
 ---
 
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoineedy)](https://github.com/antoineedy/)
+  
+[![Antoine's stats](https://github-readme-stats.vercel.app/api?username=antoineedy)](https://github.com/antoineedy/)
+
 </div>
