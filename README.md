@@ -1,1 +1,1 @@
-[Here is my personnal website :)](https://antoineedy.github.io)
+[Here is my personal website](https://antoineedy.notion.site/Antoine-EDY-s-portfolio-fc7ee48d891c4fb786cfebbb419fe1f3)
